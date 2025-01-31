@@ -4,7 +4,7 @@
 
 int main() {
     int cs,ss;
-    scanf("%d %d",&a,&b);
+    scanf("%d %d",&cs,&ss);
     if (ss>cs) {
         printf("Profit");
     }
