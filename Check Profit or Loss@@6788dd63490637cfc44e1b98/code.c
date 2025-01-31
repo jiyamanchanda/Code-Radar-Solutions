@@ -4,7 +4,7 @@
 
 int main() {
     int cs,ss;
-    scanf("%d %d",&cs,&ss);
+    scanf("%d %d",&cs,&ss);   //USE SAME VARIABLES IN HERE DUMBASS
     if (ss>cs) {
         printf("Profit");
     }
