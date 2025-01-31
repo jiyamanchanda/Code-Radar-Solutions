@@ -8,13 +8,13 @@ int main() {
    if (a>=90) {
     printf("A");
    }
-   elif(a<90 && a>=80){
+   else if(a<90 && a>=80){
     printf("B");
    }
-   elif(a<80 && a>=70) {
+   else if(a<80 && a>=70) {
     printf("C");
    }
-   elif(a<70 && a>=60) {
+   else if(a<70 && a>=60) {
     printf("D");
    }
    else {printf("F");
