@@ -11,7 +11,8 @@ int main() {
     else if (cs>ss) {
         printf("Loss");
     }
-    else 
+    else {
     printf("No Profit No Loss");
+    }
     return 0;
 }
