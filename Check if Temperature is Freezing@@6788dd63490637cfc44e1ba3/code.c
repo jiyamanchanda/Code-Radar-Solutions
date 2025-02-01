@@ -9,7 +9,7 @@ int main() {
         printf("Freezing");
     }
     else {
-        prinf("Above Freezing");
+        printf("Above Freezing");
     }
     return 0;
 }
