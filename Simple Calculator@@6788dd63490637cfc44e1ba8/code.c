@@ -11,7 +11,7 @@ int main() {
     printf("%d",a+b);
     break;
 
-    case '_':
+    case '-':
     printf("%d",a-b);
     break;
 
