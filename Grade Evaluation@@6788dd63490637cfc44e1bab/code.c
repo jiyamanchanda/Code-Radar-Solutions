@@ -18,7 +18,7 @@ int main() {
         case 'D':
         printf("Below Average");
         break;
-        case 'F':
+        case 'F':       //read the question properly and then like yeah- dhang se 
         printf("Fail");
         break;
         default:
